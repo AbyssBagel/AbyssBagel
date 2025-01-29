@@ -5,6 +5,7 @@
 
 - 📫 So if you want to reach me, here's my links :
     - for univ stuff related to Angers : antonin.geille@etud.univ-angers.fr
+    - for univ stuff related to UQAC : ageille@etu.uqac.ca
     - other reason : geille.antonin@gmail.com
     - Linkedin : www.linkedin.com/in/antonin-geille
     - Discord : abyssbagel
